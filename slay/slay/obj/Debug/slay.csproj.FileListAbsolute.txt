@@ -1,0 +1,7 @@
+C:\Users\Catto\source\repos\slay\slay\bin\Debug\slay.exe.config
+C:\Users\Catto\source\repos\slay\slay\bin\Debug\slay.exe
+C:\Users\Catto\source\repos\slay\slay\bin\Debug\slay.pdb
+C:\Users\Catto\source\repos\slay\slay\obj\Debug\slay.csproj.AssemblyReference.cache
+C:\Users\Catto\source\repos\slay\slay\obj\Debug\slay.csproj.CoreCompileInputs.cache
+C:\Users\Catto\source\repos\slay\slay\obj\Debug\slay.exe
+C:\Users\Catto\source\repos\slay\slay\obj\Debug\slay.pdb
